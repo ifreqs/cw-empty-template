@@ -1,0 +1,12 @@
+C:\Users\arday\OneDrive\Masaüstü\coding\teaching\trial\target\debug\deps\spki-99fdf29644dfbe36.rmeta: C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\lib.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\algorithm.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\error.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\spki.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\traits.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\../README.md
+
+C:\Users\arday\OneDrive\Masaüstü\coding\teaching\trial\target\debug\deps\libspki-99fdf29644dfbe36.rlib: C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\lib.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\algorithm.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\error.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\spki.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\traits.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\../README.md
+
+C:\Users\arday\OneDrive\Masaüstü\coding\teaching\trial\target\debug\deps\spki-99fdf29644dfbe36.d: C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\lib.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\algorithm.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\error.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\spki.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\traits.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\../README.md
+
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\lib.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\algorithm.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\error.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\spki.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\traits.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.6.0\src\../README.md:

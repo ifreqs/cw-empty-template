@@ -1,0 +1,11 @@
+c:\Users\arday\OneDrive\Masaüstü\coding\teaching\trial\target\debug\deps\ed25519_zebra-1cb9ec7da0bb288d.rmeta: C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\lib.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\batch.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\error.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\signature.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\signing_key.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\verification_key.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\../README.md
+
+c:\Users\arday\OneDrive\Masaüstü\coding\teaching\trial\target\debug\deps\ed25519_zebra-1cb9ec7da0bb288d.d: C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\lib.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\batch.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\error.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\signature.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\signing_key.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\verification_key.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\../README.md
+
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\lib.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\batch.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\error.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\signature.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\signing_key.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\verification_key.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-zebra-3.1.0\src\../README.md:

@@ -1,0 +1,12 @@
+c:\Users\arday\OneDrive\Masaüstü\coding\teaching\trial\target\debug\deps\thiserror_impl-dcf902019f57a9c5.dll: C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\lib.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\ast.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\attr.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\expand.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\fmt.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\generics.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\prop.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\valid.rs
+
+c:\Users\arday\OneDrive\Masaüstü\coding\teaching\trial\target\debug\deps\thiserror_impl-dcf902019f57a9c5.d: C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\lib.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\ast.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\attr.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\expand.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\fmt.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\generics.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\prop.rs C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\valid.rs
+
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\lib.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\ast.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\attr.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\expand.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\fmt.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\generics.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\prop.rs:
+C:\Users\arday\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.38\src\valid.rs:
